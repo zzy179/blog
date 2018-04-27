@@ -1,3 +1,32 @@
+TODO:
+
+ - [ ] 变量类型
+ - [ ] 对象方法
+ - [ ] 作用域
+ - [ ] 对象属性
+ - [ ] this指向
+ - [ ] 原型与原型链
+ - [ ] 面向对象
+ - [ ] 继承
+ - [ ] 浏览器渲染机制
+ - [ ] Ajax
+ - [ ] 跨域
+ - [ ] DOM操作
+ - [ ] Event Loop
+ - [ ] 同步异步
+ - [ ] 对象拷贝、节流防抖、懒加载等常见需求
+ - [ ] 浏览器本地存储
+ - [ ] 事件
+ - [ ] http
+ - [ ] dom操作
+ - [ ] 样式操作
+ - [ ] canvasAPI
+ - [ ] window，history，loaction，navigator
+ - [ ] 错误处理
+ - [ ] 性能
+ - [ ] 安全
+ - [ ] webpack
+ 
 ### 前端知识体系
 #### 1.[变量类型](https://github.com/chiren33/blog/issues/1)
 #### 2.[对象方法](https://github.com/chiren33/blog/issues/2)
