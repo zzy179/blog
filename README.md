@@ -32,6 +32,7 @@ TODO:
 #### 2.[对象方法](https://github.com/chiren33/blog/issues/2)
 #### 3.[作用域](https://github.com/chiren33/blog/issues/4)
 #### 4.[对象属性](https://github.com/chiren33/blog/issues/3)
+#### 5.[EventLoop](https://github.com/chiren33/blog/issues/12)
 #### 6.[this指向](https://github.com/chiren33/blog/issues/6)
 #### 7.[原型与原型链](https://github.com/chiren33/blog/issues/5)
 #### 8.[面向对象](https://github.com/chiren33/blog/issues/7)
