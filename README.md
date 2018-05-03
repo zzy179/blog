@@ -11,7 +11,7 @@ TODO:
  - [x] 浏览器渲染机制
  - [x] Ajax
  - [x] 跨域
- - [ ] DOM操作
+ - [x] DOM操作
  - [x] Event Loop
  - [ ] 同步异步
  - [ ] 对象拷贝、节流防抖、懒加载等常见需求
@@ -40,3 +40,4 @@ TODO:
 #### 10.[浏览器渲染机制](https://github.com/chiren33/blog/issues/10)
 #### 11.[Ajax](https://github.com/chiren33/blog/issues/11)
 #### 12.[跨域](https://github.com/chiren33/blog/issues/9)
+#### 13.[DOM相关](https://github.com/chiren33/blog/issues/13)
